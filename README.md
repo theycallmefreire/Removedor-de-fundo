@@ -1,7 +1,9 @@
 # Removedor de fundo de imagens
  ✏️Com o pacote rembg + Pillow, é possível transformar imagens como .jpg em .png com fundo transparente.
  
- <img width="250" height="250" alt="2" src="https://github.com/user-attachments/assets/1643b73e-493e-428a-8a6a-e6daefb357ba" />
+ <div align="center">
+   <img width="250" height="250" alt="2" src="https://github.com/user-attachments/assets/1643b73e-493e-428a-8a6a-e6daefb357ba" />
+ </div>
  
 ---
 ## Instalação
